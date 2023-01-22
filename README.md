@@ -1,6 +1,6 @@
 # Swapping-two-values
 ## AIM:
-To write a python program for swapping of two values
+To write a python program for swapping of two values.
 ## EQUIPEMENT'S REQUIRED: 
 PC
 Anaconda - Python 3.7
@@ -29,7 +29,7 @@ print("Swapped values are:",n1,n2)
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
