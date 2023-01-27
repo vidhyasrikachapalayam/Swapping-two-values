@@ -30,7 +30,8 @@ n1=temp
 
 print("Swapped values are:",n1,n2)
 ## OUTPUT:
-![swapping.png](./images/swapping.png)
+![swapping](https://user-images.githubusercontent.com/119477817/215025115-4b946f5f-01c7-4c6c-a37e-74e3592bc817.png)
+
 
 
 ## RESULT:
